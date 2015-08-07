@@ -25,7 +25,8 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "node-parallel": "^0.1.5"
+    "node-parallel": "^0.1.5",
+    "stable": "^0.1.5"
   },
   "devDependencies": {
     "chai": "^2.3.0",
